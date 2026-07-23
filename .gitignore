@@ -1,0 +1,13 @@
+# Sistemas operativos
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Logs y temporales
+*.log
+.cache/
